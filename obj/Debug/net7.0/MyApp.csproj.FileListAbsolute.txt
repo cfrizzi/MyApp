@@ -1,0 +1,15 @@
+/Users/clarafrizzi/MyApp/bin/Debug/net7.0/MyApp
+/Users/clarafrizzi/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/clarafrizzi/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/clarafrizzi/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/clarafrizzi/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/clarafrizzi/MyApp/obj/Debug/net7.0/ref/MyApp.dll
